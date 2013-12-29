@@ -28,7 +28,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
 gem 'gravatar_image_tag', '1.0.0.pre2'
-gem 'will_paginate', '3.0.pre2'
+gem 'will_paginate', '~> 3.0.5'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
